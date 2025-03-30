@@ -131,23 +131,6 @@ SELECT title, likes FROM youtube_data ORDER BY likes DESC LIMIT 10;
 
 ---
 
-## 📸 Screenshots
-
-Below are the screenshots of the **AWS Glue Jobs, Athena Queries, and QuickSight Dashboards** used in this project.
-
-**1️⃣ AWS Glue Job Execution**
-
-*(Insert Screenshot Here)*
-
-**2️⃣ Sample Athena Query**
-
-*(Insert Screenshot Here)*
-
-**3️⃣ QuickSight Dashboard Overview**
-
-*(Insert Screenshot Here)*
-
----
 
 ## 📊 Example Insights
 
@@ -160,4 +143,9 @@ Below are the screenshots of the **AWS Glue Jobs, Athena Queries, and QuickSight
 
 
 👥 Contributions Welcome!
+
+
+
+(Credits)
+YT Reference - https://youtu.be/yZKJFKu49Dk 
 

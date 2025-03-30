@@ -146,6 +146,5 @@ SELECT title, likes FROM youtube_data ORDER BY likes DESC LIMIT 10;
 
 
 
-(Credits)
-YT Reference - https://youtu.be/yZKJFKu49Dk 
+
 
